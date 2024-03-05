@@ -4,13 +4,13 @@
 
 *Amanda Segundo*
 
-Eu trabalhando remotamente, a Neon tem a cultura onde podemos trabalhar de qualquer lugar:
+Eu trabalhando remotamente como Engenheira de Software, na Neon podemos trabalhar de qualquer lugar:
 
 <img src="./images/pessoas/amanda.jpeg" style="width:300px;"/>
 
 ## O que é a Neon
 
-A Neon é um instituição financeira ou fintech, termo criado a partir da junção dos termos "financial" (financeiro) e "technology" (tecnologia).
+A Neon é uma instituição financeira ou fintech, termo criado a partir da junção dos termos "financial" (financeiro) e "technology" (tecnologia).
 
 Sua missão é unir tecnologia e design para redesenhar e simplificar a experiência financeira das pessoas, além de ajudá-las a gerir melhor o próprio dinheiro.
 
@@ -20,13 +20,15 @@ Ela também foca nas classes menos favorecidas, facilitando o acesso à tecnolog
 
 ## LinkedIn
 
-Meu primeiro contato com a Neon foi pelo LinkedIn, a recrutadora [Luana Vargas](https://www.linkedin.com/in/luana-vargas/) estava divulgando vagas, então mandei um convite para ela e ela em seguida já mandou mensagem e marcamos um entrevista.
+Meu primeiro contato com a Neon foi pelo LinkedIn, a recrutadora [Luana Vargas](https://www.linkedin.com/in/luana-vargas/) estava divulgando vagas, então mandei um convite para ela e ela em seguida já mandou mensagem e marcamos uma entrevista.
 
 A Luana:
 
 <img src="./images/pessoas/luana.png" style="width:300px;"/>
 
 💡 [A Luana também cria conteúdos sobre carreira no Instagram](https://www.instagram.com/luanavargas.rh/)
+
+💡 [O que é o LinkedIn](https://pt.wikipedia.org/wiki/LinkedIn)
 
 ## Processo seletivo
 
@@ -100,25 +102,35 @@ O [Leonardo](https://www.linkedin.com/in/leonardo-cabbau-50858b11b/) é uma refe
 
 <img src="./images/pessoas/leonardo.png" style="width:300px;"/>
 
+💡 [O que é a Arquitetura de Software](https://pt.wikipedia.org/wiki/Arquitetura_de_software)
+
 #### Lucas Galvão Nunes
 
 O [Lucas](https://www.linkedin.com/in/lucasgnunes/) é um Hacker Ético e gosta muito de assuntos relacinados a tokens.
 
 <img src="./images/pessoas/lucas.png" style="width:300px;"/>
 
+💡 [Ética Hacker](https://pt.wikipedia.org/wiki/%C3%89tica_hacker)
+
 #### Mateus Marques
 
-O [Mateus](https://www.linkedin.com/in/marquesmateus/) tem um perfil de liderança e está a frente de projetos importantes como um engine.
+O [Mateus](https://www.linkedin.com/in/marquesmateus/) tem um perfil de liderança e está a frente de projetos importantes como uma engine.
 
 <img src="./images/pessoas/mateus.png" style="width:300px;"/>
 
-### Anti-Fraud Manager
+### Anti-Fraud Tech Manager
 
-O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é uma refência anti-fraud global, ele já trabalhou no Google e na Stripe.
+O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é uma referência anti-fraud global, ele já trabalhou no Google e na Stripe.
 
 <img src="./images/pessoas/joachim.png" style="width:300px;"/>
 
 ## Valores culturais
+
+<img src="./images/valores/valores-1-2.jpg"/>
+
+<img src="./images/valores/valores-3-4.jpg"/>
+
+<img src="./images/valores/valores-5-6.jpg"/>
 
 ## Comunidades techs dentro da Neon
 
@@ -126,3 +138,5 @@ O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é um
 
 ## Canal sobre pets
 #fotosdepetparaquandobaterbadnotrabalho
+
+<img src="./images/canais/canal-pet.jpg"/>
