@@ -10,7 +10,9 @@
 
 A Neon é um instituição financeira ou fintech, termo criado a partir da junção dos termos "financial" (financeiro) e "technology" (tecnologia).
 
-Sua missão de unir tecnologia e design para redesenhar e simplificar a experiência financeira das pessoas, além de ajudá-las a gerir melhor o próprio dinheiro.
+Sua missão é unir tecnologia e design para redesenhar e simplificar a experiência financeira das pessoas, além de ajudá-las a gerir melhor o próprio dinheiro.
+
+Ela também foca nas classes menos favorecidas, facilitando o acesso à tecnologia e ao crédito.
 
 💡[Mais sobre a Neon](https://neon.com.br/)
 
