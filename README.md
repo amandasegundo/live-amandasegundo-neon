@@ -58,3 +58,40 @@ A área de Prevenção à Fraudes é muito grande, trabalho com pessoas técnica
 
 Vou citar algumas pessoas que estão mais próximas a mim, que são referências anti-fraude, que são importantes na minha carreira e desenvolvimento.
 
+### Tech Manager
+
+O [Rogério Luis Alves](https://www.linkedin.com/in/rog%C3%A9rio-luis-alves-b9916521/) é um Tech Manager, e uma de suas responsabilidades é mediar a área técnica com a área de negócio.
+
+<img src="./images/pessoas/rogerio.png" style="width:300px;"/>
+
+### Product Manager
+
+O [Luiz Carvalho](https://www.linkedin.com/in/luiz-carvalho-22a11b39/) é um Product Manager, ele é um especialista em negócio e é um anti-fraude há mais de vinte anos.
+
+### Engenheiros de Software
+
+#### Leonardo Cabbau
+
+O [Leonardo](https://www.linkedin.com/in/leonardo-cabbau-50858b11b/) é uma referência em arquitetura de software.
+
+<img src="./images/pessoas/leonardo.png" style="width:300px;"/>
+
+#### Lucas Galvão Nunes
+
+O [Lucas](https://www.linkedin.com/in/lucasgnunes/) é um Hacker Ético e gosta muito de assuntos relacinados a tokens.
+
+<img src="./images/pessoas/lucas.png" style="width:300px;"/>
+
+#### Mateus Marques
+
+O [Mateus](https://www.linkedin.com/in/marquesmateus/) tem um perfil de liderança e está a frente de projetos importantes como um engine.
+
+<img src="./images/pessoas/mateus.png" style="width:300px;"/>
+
+### Anti-Fraud Manager
+
+O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é uma refência anti-fraud global, ele já trabalhou no Google e na Stripe.
+
+<img src="./images/pessoas/joachim.png" style="width:300px;"/>
+
+
