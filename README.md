@@ -1,6 +1,6 @@
 # Como é trabalhar na Fintech Neon: Amanda Segundo
 
-*"A Neon me proporciona a trabalhar com tecnologias de ponta e com pessoas incríveis"*
+*"A Neon me proporciona trabalhar com tecnologias de ponta e com pessoas incríveis"*
 
 *Amanda Segundo*
 
