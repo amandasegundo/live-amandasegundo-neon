@@ -6,6 +6,8 @@
 
 <img src="./images/eu/amanda-home-office.jpeg" style="width:300px;"/>
 
+## O que é a Neon
+
 ## LinkedIn
 
 Meu primeiro contato com a Neon foi pelo LinkedIn, a recuratora [Luana Vargas](https://www.linkedin.com/in/luana-vargas/) estava divulgando vagas, então mandei um convite para ela e ela em seguida já mandou mensagem e marcamos um entrevista.
@@ -94,4 +96,11 @@ O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é um
 
 <img src="./images/pessoas/joachim.png" style="width:300px;"/>
 
+## Comunidades techs dentro da Neon
 
+## Comunidades de mulheres
+
+## Valores culturais
+
+## Canal sobre pets
+#fotosdepetparaquandobaterbadnotrabalho
