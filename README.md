@@ -116,11 +116,11 @@ O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é um
 
 <img src="./images/pessoas/joachim.png" style="width:300px;"/>
 
+## Valores culturais
+
 ## Comunidades techs dentro da Neon
 
 ## Mentoria entre mulheres
-
-## Valores culturais
 
 ## Canal sobre pets
 #fotosdepetparaquandobaterbadnotrabalho
