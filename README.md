@@ -8,13 +8,21 @@
 
 ## O que é a Neon
 
+A Neon é um instituição financeira ou fintech, termo criado a partir da junção dos termos "financial" (financeiro) e "technology" (tecnologia).
+
+Sua missão de unir tecnologia e design para redesenhar e simplificar a experiência financeira das pessoas, além de ajudá-las a gerir melhor o próprio dinheiro.
+
+💡[Mais sobre a Neon](https://neon.com.br/)
+
 ## LinkedIn
 
-Meu primeiro contato com a Neon foi pelo LinkedIn, a recuratora [Luana Vargas](https://www.linkedin.com/in/luana-vargas/) estava divulgando vagas, então mandei um convite para ela e ela em seguida já mandou mensagem e marcamos um entrevista.
+Meu primeiro contato com a Neon foi pelo LinkedIn, a recrutadora [Luana Vargas](https://www.linkedin.com/in/luana-vargas/) estava divulgando vagas, então mandei um convite para ela e ela em seguida já mandou mensagem e marcamos um entrevista.
 
 A Luana:
 
 <img src="./images/pessoas/luana.png" style="width:300px;"/>
+
+💡 [A Luana também cria conteúdos sobre carreira no Instagram](https://www.instagram.com/luanavargas.rh/)
 
 ## Processo seletivo
 
@@ -26,15 +34,21 @@ Também teve uma entrevista sobre o Fit Cultural, para ver se eu estava alinhada
 
 Também não demorou muito e recebi o resultado de que eu havia sido aprovada.
 
-Quem me contratou foi o [Carlos Carvalho - Carlão](https://www.linkedin.com/in/carlos-carvalho17/) que estudou do MIT e foi de Gestor de Tecnologia a Diretor de Engenharia ne Neon.
+Quem me contratou foi o [Carlos Carvalho](https://www.linkedin.com/in/carlos-carvalho17/) que estudou do MIT - Massachusetts Institute of Technology e foi de Tech Manager a Diretor de Engenharia ne Neon.
 
 Ele me escolheu para trabalhar em uma área chamada "Prevenção à Fraude, à Lavagem de Dinheiro e combate ao Terrorismo".
 
 No ínicio fiquei assustada com o tema, não achei que iria ser escolhida para trabalhar com um assunto tão delicado, mas fiquei empolgada também.
 
-O (Carlão):
+O Carlos:
 
 <img src="./images/pessoas/carlos.png" style="width:300px;"/>
+
+💡[O que é Fraude Bancária](https://pt.wikipedia.org/wiki/Fraude_banc%C3%A1ria)
+
+💡[O que é Lavagem de dinheiro](https://pt.wikipedia.org/wiki/Lavagem_de_dinheiro)
+
+💡[Série Ozark](https://pt.wikipedia.org/wiki/Ozark_(s%C3%A9rie_de_televis%C3%A3o))
 
 ## A área de Prevenção à Fraudes
 
@@ -53,6 +67,10 @@ Na Neon consumimos Engines e Inteligência Artifical para ajudar na detecção d
 Ilustração de uma Biometrial Facial (Fonte: Shutterstock):
 
 <img src="./images/projetos/biometrial-facial.png"/>
+
+💡 [Software Engine](https://en.wikipedia.org/wiki/Software_engine)
+
+💡 [Inteligência Artificial](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial)
 
 ### Equipe Multidisciplinar
 
