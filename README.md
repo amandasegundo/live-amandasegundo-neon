@@ -98,7 +98,7 @@ O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é um
 
 ## Comunidades techs dentro da Neon
 
-## Comunidades de mulheres
+## Mentoria entre mulheres
 
 ## Valores culturais
 
