@@ -4,7 +4,9 @@
 
 *Amanda Segundo*
 
-<img src="./images/eu/amanda-home-office.jpeg" style="width:300px;"/>
+Eu trabalhando remotamente, a Neon tem a cultura onde podemos trabalhar de qualquer lugar:
+
+<img src="./images/pessoas/amanda.jpeg" style="width:300px;"/>
 
 ## O que é a Neon
 
