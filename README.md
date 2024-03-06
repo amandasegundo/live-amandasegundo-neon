@@ -134,9 +134,16 @@ O [Joachim Valente](https://www.linkedin.com/in/joachim-valente-06968326/) é um
 
 ## Comunidades techs dentro da Neon
 
+A Neon possui várias comunidades Techs e cada uma possui um  canal do Slack para compartilharem novidades e sanar dúvidas, bem colaborativos. Dentre elas estão, DotNet, Java e JavaScript.
+
 ## Mentoria entre mulheres
 
+Comecei a participar de um programa chamado Mulheres em Tech, e agora tenho uma mentora para me ajudar a alcançar meus objetivos de carreira.
+
+Também tenho uma mentoranda que, é engenheira de software com um nível menor que o meu, e irei ajudá-la na carreira dela.
+
 ## Canal sobre pets
-#fotosdepetparaquandobaterbadnotrabalho
+
+O nome do canal #fotosdepetparaquandobaterbadnotrabalho já diz tudo, é onde compartilhamos as fotos fofas dos nossos pets.
 
 <img src="./images/canais/canal-pet.jpg"/>
